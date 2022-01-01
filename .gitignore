@@ -4,3 +4,14 @@ _site
 Gemfile.lock
 .bundle
 vendor/
+
+
+## hidden blog posts
+_posts/2015-02-24-markdown-extra-components.md
+_posts/2016-02-24-markdown-common-elements.md
+_posts/2021-05-08-geopandas.md
+
+## hidden project posts
+_posts/2016-01-23-indigo-jekyll-theme.md
+
+
