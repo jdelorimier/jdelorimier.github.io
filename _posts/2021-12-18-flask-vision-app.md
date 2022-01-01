@@ -13,7 +13,7 @@ author: james
 externalLink: false
 ---
 
-![Simple Image App](https://raw.githubusercontent.com/jdelorimier/indigo/gh-pages/assets/screen-shot.png)
+![Simple Image App](https://github.com/jdelorimier/jdelorimier.github.io/blob/gh-pages/assets/images/vision-app-example.png?raw=true)
 
 This is a basic image classification application.
 
