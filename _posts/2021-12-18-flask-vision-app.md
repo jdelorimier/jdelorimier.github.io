@@ -15,8 +15,8 @@ externalLink: false
 
 ![Simple Image App](https://github.com/jdelorimier/jdelorimier.github.io/blob/gh-pages/assets/images/vision-app-example.png?raw=true)
 
-This is a basic image classification application.
+I made a simple flask app which runs a custom ResNet neural network trained on the CIFAR100 dataset. Given an input image, this application returns one of CIFAR's 100 image classifications.
 
-[Check it out here](http://app.jamesdelorimier.com)
+[Check the code out here](https://github.com/jdelorimier/image-classification-flask-app)
 
 
