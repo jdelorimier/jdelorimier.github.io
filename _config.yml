@@ -1,6 +1,6 @@
 # main text of home
 name: James de Lorimier
-bio: Figuring it out a little at a time
+bio: Beg, Borrow and Scale
 
 # twitter summary info
 description: Where I lurk more interesting accounts
@@ -62,7 +62,7 @@ authors:
     twitter: johndoe
   james:
     name: James
-    bio: Figuring it out a little at a time
+    bio: Beg, Borrow and Scale
     external-image: false
     picture: assets/images/profile.jpg
     # twitter: johndoe

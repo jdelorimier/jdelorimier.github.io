@@ -4,14 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hey! I'm James. This site is both a portofio and a record of interesting discoveries. It is also a great excuse to buy my own domain name.</p>
+<p>Hey! I'm James. This site is both a portfolio and a record of interesting discoveries. It is also a great excuse to buy my own domain name :P</p>
 
 <h2>Some Skills I've Gathered</h2>
 
 <ul class="skill-list">
-	<li>Python</li>
+	<li>Python & Pyspark</li>
 	<li>R</li>
-	<li>Bash</li>
+	<li>Bash scripting</li>
 	<li>AWS Cloud Suite</li>
 	<li>ElasticSearch</li>
 	<li>Git</li>
